@@ -1,4 +1,4 @@
-![Alt text](BubbleTrouble/bubbleTroubleFeature.png?raw=true "Optional Title")
+![Alt text](bubbleTroubleFeature.png?raw=true "Optional Title")
 
 Bubble Trouble is an arcade style game created with Unity for Android.
 
