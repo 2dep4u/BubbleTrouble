@@ -6,6 +6,7 @@
 !/Assets/
 !/ProjectSettings/
 !.gitignore
+!bubbleTroubleFeature.png
 
 # OS Stuff
 .DS_Store
