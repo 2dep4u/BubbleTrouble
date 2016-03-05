@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: f59cd0876f7cb6245a648c632d4d70a7
+timeCreated: 1456621869
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BubbleSimple (1)_0
+    21300002: BubbleSimple (1)_1
+    21300004: BubbleSimple (1)_2
+    21300006: BubbleSimple (1)_3
+    21300008: BubbleSimple (1)_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BubbleSimple (1)_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1185
+        width: 119
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.25379, y: 46.042297}
+        - {x: -43.25379, y: 37.042297}
+        - {x: -43.25379, y: -21.957703}
+        - {x: -32.25379, y: -44.957703}
+        - {x: 25.746208, y: -44.957703}
+        - {x: 43.74621, y: -32.957703}
+        - {x: 43.74621, y: 46.042297}
+    - name: BubbleSimple (1)_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1295
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BubbleSimple (1)_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1265
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BubbleSimple (1)_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1234
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BubbleSimple (1)_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1188
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
